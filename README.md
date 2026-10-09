@@ -15,7 +15,7 @@
 
 ### ╔═══[ 🪪 IDENTITY CARD ]═══╗
 
-</div>
+
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -32,7 +32,7 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
-
+</div>
 <br>
 
 <div align="center">
@@ -137,7 +137,7 @@ Academic programs and applications developed while learning object-oriented prog
 
 <div align="center">
 
-</div>
+
 
 ```text
 SANJAY v1.0
@@ -150,7 +150,7 @@ SANJAY v1.0
       │
       └──────────────► v2.0 LOADING...
 ```
-
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/v2.0-LOADING...-FF00A8?style=for-the-badge&labelColor=0D1117"/>
